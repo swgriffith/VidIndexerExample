@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "viApiUrl": "https://api.videoindexer.ai",
+    "viAccountID": "<insert account id>",
+    "viRegion": "<insert region>",
+    "viAPIKey": "<insertKey>"
+  }
+}
